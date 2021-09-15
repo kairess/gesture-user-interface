@@ -2,4 +2,4 @@
 
 Gesture-based user interface in Minority Report using Mediapipe, OpenCV
 
-![](result.mp4)
+result.mp4
