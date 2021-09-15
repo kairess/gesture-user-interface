@@ -2,4 +2,5 @@
 
 Gesture-based user interface in Minority Report using Mediapipe, OpenCV
 
-result.mp4
+https://github.com/kairess/gesture-user-interface/raw/master/result.mp4
+
